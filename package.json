@@ -12,6 +12,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "hbs": "^4.1.0",
+    "n": "^6.4.0",
     "requests": "^0.3.0"
   }
 }
